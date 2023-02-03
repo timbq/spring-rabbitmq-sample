@@ -1,0 +1,8 @@
+###
+POST http://localhost:8080/stoplistener
+
+###
+POST http://localhost:8080/actuator/shutdown
+
+<> 2023-01-31T080443.200.json
+<> 2023-01-31T080151.200.json
